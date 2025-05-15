@@ -1,9 +1,7 @@
-# 👋 Olá, eu sou Gustavo Henrique.
-<br/>
+# Olá, eu sou Gustavo Henrique.
+**`Desenvolvedor Front-End`**
 
 Sou Desenvolvedor Front-end Jr com foco em criar interfaces modernas, acessíveis e funcionais. Atualmente atuo na **Alpe**, onde venho me desenvolvendo profissionalmente e tecnicamente ao participar ativamente de projetos complexos, cuidando do portal da empresa e contribuindo para o crescimento da equipe.
-
-<br/>
 
 ---
 
