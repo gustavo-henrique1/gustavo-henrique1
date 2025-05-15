@@ -33,4 +33,4 @@ Você pode me encontrar por aqui:
 - [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-885918199/)
 - [Portfólio](https://gustavo-henrique1.github.io/portfolio-gustavo/)
 
-⭐ Se você gostou do meu trabalho, sinta-se à vontade para dar uma estrela nos repositórios, conectar-se comigo ou apenas trocar uma ideia sobre desenvolvimento Front-end!
+Se você gostou do meu trabalho, sinta-se à vontade para dar uma estrela nos repositórios, conectar-se comigo ou apenas trocar uma ideia sobre desenvolvimento Front-end!
