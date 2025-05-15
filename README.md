@@ -7,6 +7,8 @@ Sou Desenvolvedor Front-end Jr com foco em criar interfaces modernas, acessívei
 
 ---
 
+<br/>
+
 ### 🧠 Tecnologias e Workflow
 
 <p align="left">
