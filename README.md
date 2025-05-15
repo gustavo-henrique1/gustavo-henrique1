@@ -21,12 +21,12 @@ Sou Desenvolvedor Front-end Jr com foco em criar interfaces modernas, acessívei
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="30px" style="padding-right:10px;" />
 </p>
 
-<br/><br/>
+<br/>
 
 ### 🌱 Em constante evolução...
 
 Busco sempre aprender novas tecnologias, melhorar minha lógica de programação e contribuir com projetos desafiadores que impactam positivamente os usuários.
-<br/><br/>
+<br/>
 
 ### 📫 Entre em contato
 
