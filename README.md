@@ -5,8 +5,6 @@ Sou Desenvolvedor Front-end Jr com foco em criar interfaces modernas, acessívei
 
 ---
 
-<br/>
-
 ### 🧠 Tecnologias e Workflow
 
 <p align="left">
@@ -24,12 +22,9 @@ Sou Desenvolvedor Front-end Jr com foco em criar interfaces modernas, acessívei
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="30px" style="padding-right:10px;" />
 </p>
 
-<br/>
-
 ### 🌱 Em constante evolução...
 
 Busco sempre aprender novas tecnologias, melhorar minha lógica de programação e contribuir com projetos desafiadores que impactam positivamente os usuários.
-<br/>
 
 ### 📫 Entre em contato
 
@@ -37,7 +32,5 @@ Você pode me encontrar por aqui:
 
 - [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-885918199/)
 - [Portfólio](https://gustavo-henrique1.github.io/portfolio-gustavo/)
-
-<br/>
 
 ⭐ Se você gostou do meu trabalho, sinta-se à vontade para dar uma estrela nos repositórios, conectar-se comigo ou apenas trocar uma ideia sobre desenvolvimento Front-end!
