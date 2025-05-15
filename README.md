@@ -5,7 +5,7 @@ Sou Desenvolvedor Front-end Jr com foco em criar interfaces modernas, acessívei
 
 ---
 
-### 🧠 Tecnologias e Workflow
+### Tecnologias e Workflow
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30px" style="padding-right:10px;" />
@@ -22,11 +22,11 @@ Sou Desenvolvedor Front-end Jr com foco em criar interfaces modernas, acessívei
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="30px" style="padding-right:10px;" />
 </p>
 
-### 🌱 Em constante evolução...
+### Em constante evolução...
 
 Busco sempre aprender novas tecnologias, melhorar minha lógica de programação e contribuir com projetos desafiadores que impactam positivamente os usuários.
 
-### 📫 Entre em contato
+### Entre em contato
 
 Você pode me encontrar por aqui:
 
